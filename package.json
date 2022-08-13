@@ -1,0 +1,22 @@
+{
+  "name": "naicsjs",
+  "version": "1.0.0",
+  "description": "Utility tools for 2022 NAICS standards",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grayalienventures/naicsjs.git"
+  },
+  "keywords": [
+    "naics"
+  ],
+  "author": "INTP LLC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/grayalienventures/naicsjs/issues"
+  },
+  "homepage": "https://github.com/grayalienventures/naicsjs#readme"
+}
