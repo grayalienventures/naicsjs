@@ -1,5 +1,5 @@
 # naics
-Utility tools for 2022 NAICS standards in PHP.
+Utility tools for 2022 NAICS standards.
 
 ## Installation
 Install this package using npm.
