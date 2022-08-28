@@ -12,7 +12,7 @@ Get industry by NAICS code.
 ```javascript
 const naics = require('naicsjs')
 
-console.log(naics['62111'])
+let industry = naics(62111)
 ```
 
 ## Contributing

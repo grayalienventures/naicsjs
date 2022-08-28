@@ -2126,4 +2126,6 @@ const NAICS_CODES = {
 	"928120": "International Affairs"
 }
 
-module.exports = NAICS_CODES
+module.exports = industry => {
+	return NAICS_CODES[industry]
+}
