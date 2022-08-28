@@ -1,6 +1,6 @@
 {
   "name": "naicsjs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Utility tools for 2022 NAICS standards",
   "main": "index.js",
   "scripts": {
